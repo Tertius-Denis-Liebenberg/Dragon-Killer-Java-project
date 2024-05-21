@@ -33,4 +33,6 @@ Contributions to enhance the game, fix bugs, or add new features are welcome. Fe
 
 ## Author
 
-This project was created by [Your Name]
+**Tertius Denis Liebenberg**  
+
+For any questions or feedback, please contact [tertiusliebenberg7@gmail.com].
